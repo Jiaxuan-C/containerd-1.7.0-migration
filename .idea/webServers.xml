@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ce993e35-b104-43e0-be64-f81ea5421057" name="master">
+        <fileTransfer rootFolder="/data/gopath/src/containerd-1.7.0" accessType="SFTP" host="192.168.44.60" port="22" sshConfigId="45824c71-4eb2-45c8-91e5-a54caf5fc37b" sshConfig="root1@192.168.44.60:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
